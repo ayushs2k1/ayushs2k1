@@ -7,20 +7,20 @@ My name is **Ayush Sharma**. I'm a 2nd year engineering student from Vellore Ins
 Literally everything with data!! :blush:
 
 In May, I did an internship and training program from IIT Kanpur on Machine learning for 3 months.
-In October, I got my first independent research paper published in a journal [<img target="_blank" src="https://img.icons8.com/cute-clipart/32/000000/paper.png">](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-Comparative-Study-on-Efficiencies-of-Variants-of-Convolutional-Neural-Networks-based-on-Image-Classification-Task.pdf) called IJSER. 
+In October, I got my first independent research paper published in a journal [<img target="_blank" src="https://img.icons8.com/cute-clipart/32/000000/paper.png">](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-Comparative-Study-on-Efficiencies-of-Variants-of-Convolutional-Neural-Networks-based-on-Image-Classification-Task.pdf) called IJSER in Volume 11, Issue 10, October 2020.
 
 ## Goals
 My goal is to play around with datasets and create a lot of interesting projects, implement research papers and write blogs to help the community.
 
 ## Courses Taken
-link
+link (will be updated soon :wink:)
 
 ## Coding Skills
 **Languages:**  Python [<img src="https://img.icons8.com/color/30/000000/snake.png">](), C/C++, R, Java.
 
 **Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, , PyTorch, Keras, NLTK, , OOPs Concept
 
-**Development Environment:** Ubuntu 18.04 (Using), Windows OS, Jupyter Notebook, Spyder, Visual Studio Code as a text editor
+**Development Environment:** Ubuntu 20.04.1 LTS (Using), Windows OS, Jupyter Notebook, Spyder, Visual Studio Code as a text editor
 
 **Version Control:**  One and only GitHub :heart:
 
@@ -29,7 +29,7 @@ Visit to see my education, experience, projects, certifications, achievements an
 
 ## My Resume
 Download as PDF
-link
+link (under construction :construction:)
 
 ## Connect with me!
 
