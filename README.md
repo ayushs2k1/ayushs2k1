@@ -40,5 +40,6 @@ link (under construction :construction:)
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:ayush.sharma2019a@vitstudent.ac.in)
 
-## Resources
-- Icons by [Icons8](https://icons8.com/)
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushs2k1&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs2k1&layout=compact&show_icons=true&theme=dark)](https://github.com/ayushs2k1/github-readme-stats)
