@@ -20,7 +20,7 @@ My goal is to play around with datasets and create a lot of interesting projects
 link (will be updated soon :wink:)
 
 ## Coding Skills
-**Languages:**  Python [<img src="https://img.icons8.com/color/30/000000/snake.png">](), C/C++, R, Java.
+**Languages:**   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 
 **Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, , PyTorch, Keras, NLTK, , OOPs Concept
 
