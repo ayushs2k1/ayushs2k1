@@ -28,9 +28,6 @@ link (will be updated soon :wink:)
 
 **Version Control:**  One and only GitHub :heart:
 
-## Wanna know more about me?
-Visit to see my education, experience, projects, certifications, achievements and testimonials of my clients 
-
 ## My Resume
 Download as PDF
 link (under construction :construction:)
