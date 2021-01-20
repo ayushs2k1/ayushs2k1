@@ -41,10 +41,6 @@ link (under construction :construction:)
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/secured-letter.png">](mailto:ayush.sharma2019a@vitstudent.ac.in)
 
-<a href="https://github.com/ayushs2k1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushs2k1&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ayush's github stats" />
-</a>
-<a href="https://github.com/ayushs2k1/github-readme-stats">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs2k1&layout=compact&theme=material-palenight" />
-</a>
+![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushs2k1&show_icons=true&theme=material-palenight)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs2k1&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/ayushs2k1/github-readme-stats)
