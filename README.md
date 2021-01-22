@@ -43,4 +43,4 @@ link (under construction :construction:)
 
 ![Ayush's github stats](https://github-readme-stats.vercel.app/api?username=ayushs2k1&show_icons=true&theme=material-palenight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushs2k1&layout=compact&show_icons=true&theme=material-palenight)](https://github.com/ayushs2k1/github-readme-stats)
+
