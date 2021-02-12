@@ -4,6 +4,8 @@
 ### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 ![](https://Visitor-badge.glitch.me/badge?page_id=ayushs2k1.profileviews-badge)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/a-comparative-study-on-efficiencies-of/2d-object-detection-on-imagenet)](https://paperswithcode.com/sota/2d-object-detection-on-imagenet?p=a-comparative-study-on-efficiencies-of)
+
 ## Who Am I?
 My name is **Ayush Sharma**. I'm a 2nd year engineering student from Vellore Institute of Technology, Vellore. I started my coding journey in 2020. I used to do competitive coding in C/C++ language. After devoting a year, refining my skills in data structures and algorithms, in summer of 2020 I shifted my interest into the field of Data Science. Since then, I breathe data.
 
