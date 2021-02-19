@@ -31,7 +31,7 @@ link (will be updated soon :wink:)
 
 ## My Resume
 Download as PDF
-![https://www.visualcv.com/app/cvs]
+[<img target="_blank" img src="https://img.icons8.com/color/48/000000/submit-resume.png"/>](https://www.visualcv.com/app/cvs)
 
 ## Connect with me!
 
