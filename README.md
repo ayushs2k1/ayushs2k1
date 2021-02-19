@@ -21,17 +21,17 @@ My goal is to play around with datasets and create a lot of interesting projects
 link (will be updated soon :wink:)
 
 ## Coding Skills
-**Languages:**   <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="r"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java"></code> <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code> MATLAB
+**Languages:**   Python , C++ , C , R , Java , SQL 
 
-**Libraries:** NumPy, Pandas, Scikit-Learn,  SciPy, Matplotlib, , PyTorch, Keras, NLTK, , OOPs Concept
+**Libraries:** NumPy, Pandas , Scikit-Learn ,  SciPy , Matplotlib , PyTorch , Keras , NLTK , OOPs Concept
 
-**Development Environment:** Ubuntu 20.04.1 LTS (Using), Windows OS, Jupyter Notebook, Spyder, Visual Studio Code as a text editor
+**Development Environment:** Ubuntu 20.04.1 LTS (Using) , Windows OS , Jupyter Notebook , Spyder , Visual Studio Code as a text editor
 
 **Version Control:**  One and only GitHub :heart:
 
 ## My Resume
 Download as PDF
-link (under construction :construction:)
+![https://www.visualcv.com/app/cvs]
 
 ## Connect with me!
 
