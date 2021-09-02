@@ -31,7 +31,7 @@ link (will be updated soon :wink:)
 
 ## My Resume
 Download as PDF
-[<img target="_blank" img src="https://img.icons8.com/offices/30/000000/new-resume-template.png"/>](https://www.visualcv.com/app/cvs)
+[<img target="_blank" img src="https://img.icons8.com/offices/30/000000/new-resume-template.png"/>](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush%20Sharma%20Resume%20New.pdf)
 
 ## Connect with me!
 
