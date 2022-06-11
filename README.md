@@ -1,8 +1,7 @@
 <img align="right" alt="GIF" src="https://github.com/bhav09/bhav09/blob/master/gif.gif" width="360"/>
 
 
-### Hi there<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-![](https://Visitor-badge.glitch.me/badge?page_id=ayushs2k1.profileviews-badge)
+### Hi there
 
 
 ## Who Am I?
