@@ -30,7 +30,7 @@ link (will be updated soon :wink:)
 
 ## My Resume
 Download as PDF
-[<img target="_blank" img src="https://img.icons8.com/offices/30/000000/new-resume-template.png"/>](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush%20Sharma%20Resume.pdf)
+[<img target="_blank" img src="https://img.icons8.com/offices/30/000000/new-resume-template.png"/>](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush%20Sharma%20Resume%20(2)%20(1)%20(1).pdf)
 
 ## Connect with me!
 
