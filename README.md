@@ -11,12 +11,13 @@
 -----------------------------------------------------------
 👨🏻‍💻 **About Me**<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 
-I am a Software Engineer passionate about building systems that scale. I am currently working with Hewlett Packard Enterprise with the R&D team of Telco Media Platform.
+I am a Software Engineer passionate about building systems that scale. I work at Hewlett Packard Enterprise with the R&D team of Telco Media Platform.
 
 Previously, I have also interned at my current company and companies like Samsung. I have also done a research internship at IIT Kanpur under Prof. L Behera
 
 I hold a Bachelor's degree in Computer Science from VIT Vellore.
 
+📝 Check my [Resume](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush_Sharma_Resume.pdf)<br>
 ⚡ Check my [Certificates](https://www.linkedin.com/in/ayushsharma2k/details/certifications/)<br>
 📫 Read my [Paper](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-Comparative-Study-on-Efficiencies-of-Variants-of-Convolutional-Neural-Networks-based-on-Image-Classification-Task.pdf)<br>
 
