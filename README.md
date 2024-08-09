@@ -67,7 +67,7 @@ Operating Systems:
 <a href="https://stackoverflow.com/users/12344814/ayush-sharma"><img src="https://stackoverflow.com/users/flair/12344814.png?theme=dark" width="208" height="58" alt="profile for Ayush Sharma at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Ayush Sharma at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a> <br>
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushs2k1&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushs2k1&theme=github_dark)
-[![](https://github-readme-stats.vercel.app/api?username=ayushs2k1&include_all_commits=true&theme=tokyonight&bg_color=0D1118&border_color=3D4247&text_color=7F8891&title_color=1F5EAA&rank_icon=github&card_width=70px)](https://github.com/anuraghazra/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api?username=ayushs2k1&include_all_commits=true&theme=tokyonight&bg_color=0D1118&border_color=3D4247&text_color=5A616A&title_color=1F5EAA&rank_icon=github&card_width=70px)](https://github.com/anuraghazra/github-readme-stats)
      
 
 
