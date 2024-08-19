@@ -3,7 +3,7 @@
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayushsharma2k/">LinkedIn</a> - 
+  <a href="https://www.linkedin.com/in/ayushs2k1/">LinkedIn</a> - 
   <a href="https://leetcode.com/u/ayushs_2k1/">Leetcode</a> -
   <a href="https://stackoverflow.com/users/12344814/ayush-sharma">StackOverflow</a> -
   <a href="mailto:ayushsharma.2k1@gmail.com">Email</a>
