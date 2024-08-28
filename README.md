@@ -75,7 +75,7 @@ Operating Systems:
 <summary><b>📚Recent Projects/Activity</b></summary><br>
 
   ✨ [Views on Vaccine](https://github.com/ayushs2k1/ViewsOnVaccine)<br>
-  ✨ [Log Ingestor and Query Interface](https://github.com/ayushs2k1/Log-Ingestor-and-Query-Interface)<br>
+  ✨ [Log Ingestor and Query Interface](https://github.com/ayushs2k1/Log-Ingestor-and-Query-Interface-Go)<br>
   ✨ [Technical Review Tool](https://github.com/ayushs2k1/Technical-Review-Tool)<br> 
   ✨ [Travel Easy](https://github.com/ayushs2k1/TravelEasy-DBMS-Project)<br>
   ✨ [Road Construction Using Highway Planning and Obstruction Prevention](https://github.com/ayushs2k1/Operating-Systems-Project)<br>
