@@ -17,7 +17,7 @@ Previously, I have also interned at my current company and companies like Samsun
 
 I hold a Bachelor's degree in Computer Science from VIT Vellore.
 
-📝 Check my [Resume](https://github.com/ayushs2k1/ayushs2k1/blob/main/ayushResume.pdf)<br>
+📝 Check my [Resume](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush.Sharma.pdf)<br>
 ⚡ Check my [Certificates](https://www.linkedin.com/in/ayushsharma2k/details/certifications/)<br>
 📫 Read my [Paper](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-Comparative-Study-on-Efficiencies-of-Variants-of-Convolutional-Neural-Networks-based-on-Image-Classification-Task.pdf)<br>
 
@@ -68,20 +68,6 @@ Operating Systems:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushs2k1&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushs2k1&theme=github_dark)
 [![](https://github-readme-stats.vercel.app/api?username=ayushs2k1&include_all_commits=true&theme=tokyonight&bg_color=0D1118&border_color=3D4247&text_color=5A616A&title_color=1F5EAA&rank_icon=github&card_width=70px)](https://github.com/anuraghazra/github-readme-stats)
-     
-
-
-<!--- 3rd Section on Recent Projects -->
-<summary><b>📚Recent Projects/Activity</b></summary><br>
-
-  ✨ [Views on Vaccine](https://github.com/ayushs2k1/ViewsOnVaccine)<br>
-  ✨ [Log Ingestor and Query Interface](https://github.com/ayushs2k1/Log-Ingestor-and-Query-Interface-Go)<br>
-  ✨ [Technical Review Tool](https://github.com/ayushs2k1/Technical-Review-Tool)<br> 
-  ✨ [Travel Easy](https://github.com/ayushs2k1/TravelEasy-DBMS-Project)<br>
-  ✨ [Road Construction Using Highway Planning and Obstruction Prevention](https://github.com/ayushs2k1/Operating-Systems-Project)<br>
-  ✨ [Multithreaded-Download-Manager](https://github.com/ayushs2k1/Multithreaded-Download-Manager)<br>
-  ✨ [Smart Agriculture](https://github.com/ayushs2k1/SmartAgri)<br>
-  ✨ [Detect mental health patterns in school and college going students and recommend a counsellor through video call.](https://github.com/ayushs2k1/Exypnos-vit-hack/tree/main)<br>
 
 <div align="center">
 
