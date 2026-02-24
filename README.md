@@ -17,7 +17,7 @@ Previously, I have also interned at my current company and companies like Samsun
 
 I hold a Bachelor's degree in Computer Science from VIT Vellore.
 
-📝 Check my [Resume](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush.Sharma.pdf)<br>
+📝 Check my [Resume](https://github.com/ayushs2k1/ayushs2k1/blob/main/Ayush-Sharma-Resume.pdf)<br>
 ⚡ Check my [Certificates](https://www.linkedin.com/in/ayushsharma2k/details/certifications/)<br>
 📫 Read my [Paper](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-Comparative-Study-on-Efficiencies-of-Variants-of-Convolutional-Neural-Networks-based-on-Image-Classification-Task.pdf)<br>
 
