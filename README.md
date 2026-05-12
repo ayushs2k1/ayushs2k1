@@ -32,11 +32,11 @@ Most recently I was a **ML Research Intern at NYU's CILVR Lab** under Prof. Pave
 | Project | Stack | Description |
 |---|---|---|
 | [False Markets](https://github.com/ayushs2k1/FalseMarkets-Trading) | FastAPI · TypeScript · Next.js · Redis · PostgreSQL | Evolutionary crypto trading system — agents with encoded genomes evolving via Sharpe ratio, drawdown, and win rate |
+| [LeetCourt](https://github.com/ayushs2k1/LeetCourt) | React · ElevenLabs · OpenRouter · Daytona · MongoDB | Voice-interactive courtroom simulator with multi AI agents — judge & counsel — that gamifies legal training from PDF case files |
+| [NYC Transit Sustainability Analytics](https://github.com/ayushs2k1/NYC-Transit-Sustainability-Analytics) | Python · Data Analysis | Sustainability and emissions analytics across New York City's transit network |
 | [Log Ingestor (Go)](https://github.com/ayushs2k1/Log-Ingestor-and-Query-Interface-Go) | Go · gRPC · Kafka · InfluxDB · Zookeeper | Heavy-duty data ingestor service for gRPC/REST clients with full observability stack |
 | [SVG Scaling Laws](https://github.com/ayushs2k1/svg-scaling-laws) | Python · Transformers | Transformer scaling law research (1M–88M params, 100M+ tokens) with zero-shot hyperparameter transfer |
-| [CephFS Analysis](https://github.com/ayushs2k1/cephfs-analysis) | Python | Critical path analysis on the HSRN threadripper cluster for GSoC 2026 |
-| [Image Classification](https://github.com/ayushs2k1/Image-Classification) | Python · TensorFlow | CNN variants benchmarked on image classification tasks |
-| [OS Project](https://github.com/ayushs2k1/Operating-Systems-Project) | C++ | Road construction optimizer using Dijkstra, deadlock avoidance, and CPU scheduling |
+| [CephFS Analysis](https://github.com/ayushs2k1/cephfs-analysis) | Python | Critical path analysis on the threadripper cluster for GSoC 2026 |
 
 ---
 
@@ -70,9 +70,13 @@ Most recently I was a **ML Research Intern at NYU's CILVR Lab** under Prof. Pave
 
 ---
 
-### GitHub Stats
+### Stack Overflow
 
 <a href="https://stackoverflow.com/users/12344814/ayush-sharma"><img src="https://stackoverflow.com/users/flair/12344814.png?theme=dark" width="208" height="58" alt="Ayush Sharma on Stack Overflow"></a>
+
+---
+
+### GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushs2k1&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayushs2k1&theme=github_dark)
