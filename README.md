@@ -23,7 +23,7 @@ Most recently I was a **ML Research Intern at NYU's CILVR Lab** under Prof. Pave
 
 - 🏆 Hackathon wins: HackNYU, Startup Week Buildathon, Daytona HackSprint, ElevenLabs Worldwide Hack, Pulse NYC
 - 📜 Certifications: Certified Kubernetes Application Developer (CKAD), AWS Certified Cloud Practitioner
-- 📄 Published: [A Comparative Study on Efficiencies of Variants of CNNs on Image Classification](https://www.ijser.org/onlineResearchPaperViewer.aspx?A-Comparative-Study-on-Efficiencies-of-Variants-of-Convolutional-Neural-Networks-based-on-Image-Classification-Task.pdf)
+- 📄 Published: [A Comparative Study on Efficiencies of Variants of CNNs on Image Classification](https://www.researchgate.net/publication/381516909_A_Comparative_Study_on_Efficiencies_of_Variants_of_Convolutional_Neural_Networks_based_on_Image_Classification_Task)
 
 ---
 
